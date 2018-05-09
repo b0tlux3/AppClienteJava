@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+<<<<<<< HEAD
   <services/>
   <clients>
     <client name="webService1">
@@ -35,4 +36,13 @@
       </wsimport-options>
     </client>
   </clients>
+=======
+  <services>
+    <service name="webService1">
+      <implementation-class>com.ws.webService1</implementation-class>
+    </service>
+  </services>
+  <clients/>
+  <jsr109>false</jsr109>
+>>>>>>> origin/master
 </jax-ws>
