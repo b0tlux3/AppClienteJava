@@ -32,9 +32,6 @@ public class AppClienteJava {
         }
         
         
-        
-        
-        
     }
 
     private static java.util.List<com.ws.Usuario> getListaUsuarios() {
